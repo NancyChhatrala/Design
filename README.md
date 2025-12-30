@@ -1,2 +1,2 @@
 #  CanvaDesign
-![Diwali poster](diwali_offers.png)
+![Diwali poster](diwalioffers.png)
